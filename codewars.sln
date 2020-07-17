@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SnakesAndLadders", "SnakesA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakesAndLadders.Tests", "src\SnakesAndLadders.Tests\SnakesAndLadders.Tests.csproj", "{63C63994-39BF-46BC-820F-2B20AA6A2D74}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FixStringCase", "FixStringCase", "{56082086-3370-4AA0-94D5-BC7414A141DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixStringCase", "src\FixStringCase\FixStringCase.csproj", "{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,9 +50,22 @@ Global
 		{63C63994-39BF-46BC-820F-2B20AA6A2D74}.Release|x64.Build.0 = Release|Any CPU
 		{63C63994-39BF-46BC-820F-2B20AA6A2D74}.Release|x86.ActiveCfg = Release|Any CPU
 		{63C63994-39BF-46BC-820F-2B20AA6A2D74}.Release|x86.Build.0 = Release|Any CPU
+		{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A}.Debug|x64.Build.0 = Debug|Any CPU
+		{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A}.Debug|x86.Build.0 = Debug|Any CPU
+		{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A}.Release|x64.ActiveCfg = Release|Any CPU
+		{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A}.Release|x64.Build.0 = Release|Any CPU
+		{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A}.Release|x86.ActiveCfg = Release|Any CPU
+		{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5740643F-C68C-48E7-945B-5E7C09567B54} = {58B6BDFF-99E0-4173-BE8B-6BE773151652}
 		{63C63994-39BF-46BC-820F-2B20AA6A2D74} = {58B6BDFF-99E0-4173-BE8B-6BE773151652}
+		{50C578D0-0EA2-49DC-BD6E-50BD55F2FF1A} = {56082086-3370-4AA0-94D5-BC7414A141DD}
 	EndGlobalSection
 EndGlobal
